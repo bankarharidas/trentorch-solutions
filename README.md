@@ -1,2 +1,1 @@
-# trentorch-solutions
-My TrenTorch solutions
+# My TrenTorch solutions
